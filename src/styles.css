@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header {
+  background: green;
+  font-size: 2em;
+  color: white;
+  font-weight: bold;
+  padding: 1.2em;
+  margin-bottom: 60px;
+}
